@@ -1,0 +1,22 @@
+body
+{
+    width: 350px;
+top: 50%;
+left: 50%;
+position: absolute;
+transform: translate(-50%,-50%);
+margin: 0px;
+padding: 0px;
+background-color: aquamarine;
+
+}
+
+.login
+{
+width: 350px;
+top: 50%;
+left: 50%;
+position: absolute;
+
+
+}
